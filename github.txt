@@ -1,4 +1,4 @@
-Github 멀티계정 셋팅시
+# Github 멀티계정 셋팅시
 .ssh에 등록된 config파일의 계정에 따라 clone을 해준다
 
 git clone git@계정별칭:저장소URL
