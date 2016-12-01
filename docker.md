@@ -1,6 +1,6 @@
 ## 개발환경 구축 - with Docker
 
-h3. Docker 설치
+### Docker 설치
 http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter02
 
 local의 hosts파일의 name을 설정한다.
