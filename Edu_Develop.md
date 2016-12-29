@@ -40,7 +40,7 @@
 21. 설치: apt-get install mercurial
 22. mercurial 서버운용: [서버운용](http://btsweet.blogspot.kr/2014/01/install-hgweb-server.html)
 23. [mercurial 입문서](https://www.mercurial-scm.org/wiki/KoreanTutorial)
- > http://bloodguy.tistory.com/entry/Mercurial-%EC%A1%B0%EC%97%98-%EC%8A%A4%ED%8F%B4%EC%8A%A4%ED%82%A4%EC%9D%98-HgInitcom
+ > [Mercurial](http://bloodguy.tistory.com/entry/Mercurial-%EC%A1%B0%EC%97%98-%EC%8A%A4%ED%8F%B4%EC%8A%A4%ED%82%A4%EC%9D%98-HgInitcom)
  
 24. *충동햬결 방안 마련 및 숙지*
 24. apache + mysql + php + codeigniter + hg + redmine 종합 훈련(server/client) => *28~30일차*
