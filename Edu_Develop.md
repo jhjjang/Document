@@ -1,13 +1,13 @@
 신입개발자 교육안
 ===================
  
-### 1차 컴퓨터 세팅(windows + virtualbox[우분투]) - 인터넷 가능 => *1일차*
-### redmine 계정생성, 신입사원 숙지사항 리뷰 => *1일차*
-### markdown 문법 숙지 => *1일차*
-> -http://sergeswin.com/1013
-> -http://commonmark.org/help/
-> -http://dillinger.io/
-> -redmine help 활용
+[1]: 1차 컴퓨터 세팅(windows + virtualbox[우분투]) - 인터넷 가능 => *1일차*
+[2]: redmine 계정생성, 신입사원 숙지사항 리뷰 => *1일차*
+[3]: markdown 문법 숙지 => *1일차*
+> - http://sergeswin.com/1013
+> - http://commonmark.org/help/
+> - http://dillinger.io/
+> - redmine help 활용
 
 
 # redmine 작성 - 후임을 위한 문서화 진행, 일일이슈, 문의사항 등등 모든 커뮤니케이션을 처리 => *1일차*
