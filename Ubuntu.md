@@ -11,7 +11,7 @@ Ubuntu 설치
 일부 기능에 대한 소스 폐쇄 외에 사용에 제한이 없는 오픈소스 라이센스 정책을 유지함에 
 따라 자유롭게 이용이 가능하다.
 
-#### VirtualBox 설치
+##### VirtualBox 설치
 
 > https://www.virtualbox.org/ 접속
 > Downloads에서 ViirtualBox platform packages에서 설치 환경에 맞는 다운로드 링크 클릭
@@ -20,7 +20,7 @@ Ubuntu 설치
 > 설치 경로의 변경을 원하는 경우는 두번째 화면인 " *Custom Setup* "에서 " *Location* "을 지정
 > 호스트OS의 각종 주변기기를 화용하기 위해서는 *VirtualBox Extension Pack* 을 설치 해야 한다.
 
-### VirtualBox Extension Pack 설치
+#### VirtualBox Extension Pack 설치
 
 > https://www.virtualbox.org/ 접속 - Downloads
 > VirtualBox Extension Pack에서 *All supported platforms* 링크 클릭
@@ -30,7 +30,7 @@ Ubuntu 설치
 > 설치가 완료된 후 *파일-환경설정-확장* 에서 설치된 파일 확인
 > ※ 다운로드 받은 확장팩 파일은 VirtualBox와 자동연결 되어 실행하면 자동으로 실행된다
 
-#### VirtualBox에 Ubuntu 설치하기
+##### VirtualBox에 Ubuntu 설치하기
 
 http://www.ubuntu.com/download 에서 사용자 환경에 맞는 iso파일을 다운받는다.
 VirtualBox 실행
@@ -57,7 +57,7 @@ Ubuntu가 작동하면 한국어를 선택한뒤 " *ubuntu 설치* " 선택
 설치가 완료되면 다시 재부팅되면서 " *Enter* "키를 누르라는 메세지가 나오면 "Enter"키를 누른다.
 암호를 설정했다면 *사용자 정보 입력 시* 입력했던 비밀번호로 로그인한다.
 
-#### Ubuntu 한글 설정
+##### Ubuntu 한글 설정
 
 *설정-시스템* 설정에서 언어 지원 선택
 언어지원패키지를 설치하지 않았을 경우 설치
@@ -69,7 +69,7 @@ Ubuntu가 작동하면 한국어를 선택한뒤 " *ubuntu 설치* " 선택
 한글 선택 후 +_기존 ubuntu가 사용하는 키와 겹치지 않게_+ 원하는 단축키 설정
 
 
-#### Ubuntu 기타 설정
+##### Ubuntu 기타 설정
 
 +VirtualBox에 Ubuntu를 설치하고난 뒤 *해상도* 에 문제가 있을 경우+
 
@@ -77,7 +77,7 @@ VirtualBox에서 장치-게스트 확장 CD 이미지 삽입 선택
 설치를 위한 비밀번호 입력
 완료되면 ubuntu, windows 재부팅
 
-#### Ubuntu 설치 및 한글 설정 관련 링크
+##### Ubuntu 설치 및 한글 설정 관련 링크
 
 * [VirtualBox 다운로드](https://www.virtualbox.org/wiki/Downloads)
 * [Ubuntu 다운로드](https://www.ubuntu.com/download/desktop)
